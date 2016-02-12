@@ -6,9 +6,10 @@ Below you'll find a list of free books, tutorials, and coding exercises organize
 
 #### Beginner Resources
 
-1.  Somewhat outdated but still a great free book: http://ruby.bastardsbook.com/
-2.  http://learnrubythehardway.org/book/
-3.  http://exercism.io/
+1.  Somewhat outdated but still a great book: http://ruby.bastardsbook.com/
+2.  http://www.codequizzes.com/
+3.  http://learnrubythehardway.org/book/
+4.  http://exercism.io/
 
 #### Intermediate Resources
 
@@ -28,8 +29,9 @@ Below you'll find a list of free books, tutorials, and coding exercises organize
 
 #### Beginner Resources
 
-1.  Great free book: http://eloquentjavascript.net
+1.  Great book: http://eloquentjavascript.net
 2.  Mozilla's JavaScript guide: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+3.  http://www.codequizzes.com/
 
 #### Intermediate Resources
 
